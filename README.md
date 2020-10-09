@@ -11,16 +11,24 @@
 > This was my first OnShape contruction.  I followed along with the video provided (https://youtu.be/93BFUD-HAG8). I learned how to use keyboard shortcuts such as f11 for front, C for cirle, E for Extrude, L for line and many more. This was a great way to ease in to OnShape, i had a blast creating the Base and I look forward to future OnShape constructions.
 
 ### Mount
-##### Description 
+##### Description
+> The Mount was even eaiser to construct on OnShape than the base.  The Mount was a a perfect square (120mm x 120mm) that was 8mm thick with 4 holes that were 10mm wide and 20mm from the side and spaced i each corner equally.  Finally it had a bigger whole in the middle with a 25mm diameter that was stationed in the mounts center.
 ##### Evidence
+[The Mount on OnShape](https://cvilleschools.onshape.com/documents/372371792fa27ba4ce006734/w/8ee6ecb507b074e0581fcf14/e/dc4337001846bc6f00d5102a)
 ##### Image 
+[The Mount Image](https://docs.google.com/document/d/1ftRdTzsub0_gcrkUhNC7a3y-3G5PekCRLocNMn4-A6k/edit)
 ##### Reflection
+> This was my second OnShape experience and due to experience i found it easier then the first assighnment. Alike the other contructions i followed along to the video on .5 speed (https://youtu.be/BWDk4BZFXDQ) to make sure i did the assignment correctly.  In this construction i learned how to craete a shape using another shape, in other words i was able to use the base and make the mount by layering the two constructions and than copying my work from the base to the mount.  I also learned how to make patterns and replecate shapes to speed up the contrsuction process. As i continue to get the hang of OnShape i am enjoying it even more and i look forward to seeing how the caster turns out.
 
 ### Fork
-##### Description 
+##### Description
+> The Fork was the third part of the caster assignment. This contruction began with a circular platfrom that had a diameter of 80mm and it was 8mm thick. I then created a tube with a outer circle of 20mm diameter and an inner circle of 15mm diameter so the tube was 5m thick, and the tube had a length of 110mm and it had been chamfered at the top.  I then created a shape that was 5mm thick and 166mm long with a hole of a 10mm diameter. I replecated this shape and placed it next to the other symetric from the center of the circular platform.
 ##### Evidence
+[The Fork on OnShape](https://cvilleschools.onshape.com/documents/c9ef9c7f93e7f285a4de43f7/w/b5c144b927ee29fb3833821c/e/a83d09d1ff9d03d3d94d5885)
 ##### Image 
+[The Fork Image](https://docs.google.com/document/d/1UnaOebPw-J5PfGlhlbygGsSVSRVsKDje1wTtd7tFOfw/edit)
 ##### Reflection
+>This assignment was probalby the hardest of the three. I kept with my strategy and followed along with the video on .5 speed (https://youtu.be/wQlTfOw8rYQ) to make the constructing easier on myself. In this assignment i continued to work with patterns and i learned how chamfer a shape.  I also learned how to create fillets and make a shape look more realistic.  Finally i made a platform out of a circle for the first time.  I really enjoyed the complexity to this assignment and i look forward to seeing the caster come together.
 
 ### Tire
 ##### Description 
