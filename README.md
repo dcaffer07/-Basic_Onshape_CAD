@@ -31,14 +31,21 @@
 >This assignment was probalby the hardest of the three. I kept with my strategy and followed along with the video on .5 speed (https://youtu.be/wQlTfOw8rYQ) to make the constructing easier on myself. In this assignment i continued to work with patterns and i learned how chamfer a shape.  I also learned how to create fillets and make a shape look more realistic.  Finally i made a platform out of a circle for the first time.  I really enjoyed the complexity to this assignment and i look forward to seeing the caster come together.
 
 ### Tire
-##### Description 
+##### Description
+>The tire was the 4th part of the caster assembly, and so far and it was most likely the hardest to contruct. The contruction began with a trapazoid that had been made around a contruction line so that it was semetrical,the angle between the botom left and right corners of the trapazod were contstructed 10 degress from the construction y-axis line on each side so that the shape was symetrical to itslef and to the y-axis.  Next, because this initial trapziodal shape will eventually turn into a weel, we gave the shape an outer diameter of 110, and an inner diameter of 80. I then resolved the shape around the sketch 1 dieameter constrction lines and put 8mm fillets to both top edges.  Finally i had to change the color to gray.  
 ##### Evidence
-##### Image 
+[The Tire on OnShape](https://cvilleschools.onshape.com/documents/fbda5ac2c403f4e8bab17029/w/945f07586267a0410026ea5b/e/f935ba673a68438e6c15dcd8)
+##### Image
+[The Tire Image](https://docs.google.com/document/d/1B2je0bBIjk9ZbQ1x3o1nQj802hjJCoBl36bVFQRTwOA/edit)
 ##### Reflection
+>This assignment was difficult, however i enjoyed contrcting it a lot. Like the other assignments i followed along to the video that was done by one of the other engineering teachers at .5 speed, i am still getting the hang of OnShape however i shold be good to start contructinh withot the videos(https://youtu.be/ReEGioIYSus). In this assignment i leaned how to draw a shape, and with the revelve function evelve it around an axis. I also learned how the different diameters of a shape effect its positioning, for example the inner and outer diamter that revelve for the tire.  Finally i learned how to change the constructions color(gray). I look forward to more constrctions to come.
 
 ### Wheel
-##### Description 
+##### Description
+>This construction was withot a doubt the most complicated of the 4 before it, however this was probalby my favorite thing to construct.  I began this constrction by making three connected rectangles that were each symetric to a contrction line, the top rectangle had demensions of 5mm x 20mm and the others were measured through the creation of inner and outer diameter lines around different axis( inner diameter was 80 and outer were 10 and 25).  From there i revolved each of the three connected rectangle faces arond the x-axis and then extruded a shape through the tire through with lines i drew.  I then made a circular pattern around the face 1 of the tire 5x and i then had 5 cuttouts in my tire. Finally i put a 1mm fillet around all of the edges on the front and the back of the tire.
 ##### Evidence
-##### Image 
+[The Wheel on OnShape](https://cvilleschools.onshape.com/documents/cb1bb8aeae329deea77ff46f/w/4789c2432db33ae3a74e6b31/e/67ba37dac85c5481b1db109c)
+##### Image
+[The Wheel Image](https://docs.google.com/document/d/1VnwDKxEklFIXjIbCXe9V2B8qohwYO2sra9uBDmu8MpE/edit?usp=sharing)
 ##### Reflection
-
+>At this point i can't wait to see how the caster turns out. For this assignment I did a mixture of following alond with the given video(https://youtu.be/RKeALFyqSGw) and i looked at the given images to see what to do, as i am now comfortable enough with OnShape that i can construct the things on my own. I learned how to revolve multiple shapes at the same time by just clicking the different faces.  I also learned how to create a circular pattern and how to use the "see edges through shape" function to tap on lines without baing able to see them.  I am really starting to get the hang of OnShape, and as i said i can't wait to see how the caster turns out. 
