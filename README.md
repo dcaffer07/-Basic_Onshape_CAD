@@ -1,6 +1,6 @@
 # -Basic_Onshape_CAD
 ## Table of Contents
-[The Base](https://cvilleschools.onshape.com/documents/db12dd8c3742605b93b2781d/w/d2af679d7feee0a804aa365c/e/951ae952c32edb2e017862d3)
+[The Base](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#base)
 
 ### Base
 ##### Description 
