@@ -5,7 +5,7 @@
 ##### [The Fork](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#fork)
 ##### [The Tire](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#tire)
 ##### [The Wheel](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#wheel)
-##### [The Axel, Collar, Bearing](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#wheel)
+##### [The Axel, Collar, and Bearing](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#axel-collar-bearing)
 ### Base
 ##### Description 
 > The Base is the first peice of the caster. It has dementions of 200mm x 120mm and it is 8mm thick.  It has 6 holes all 10mm wide and they are each 20mm from the side and spaces equally. Finally there is a hole that is 25mm in diameter, and is in the center of 4 of the 6 holes on the platform.
