@@ -5,7 +5,7 @@
 ##### [The Fork](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#fork)
 ##### [The Tire](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#tire)
 ##### [The Wheel](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#wheel)
-
+##### [The Axel, Collar, Bearing](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#wheel)
 ### Base
 ##### Description 
 > The Base is the first peice of the caster. It has dementions of 200mm x 120mm and it is 8mm thick.  It has 6 holes all 10mm wide and they are each 20mm from the side and spaces equally. Finally there is a hole that is 25mm in diameter, and is in the center of 4 of the 6 holes on the platform.
@@ -47,6 +47,16 @@
 >This assignment was difficult, however i enjoyed contrcting it a lot. Like the other assignments i followed along to the video that was done by one of the other engineering teachers at .5 speed, i am still getting the hang of OnShape however i shold be good to start contructinh withot the videos(https://youtu.be/ReEGioIYSus). In this assignment i leaned how to draw a shape, and with the revelve function evelve it around an axis. I also learned how the different diameters of a shape effect its positioning, for example the inner and outer diamter that revelve for the tire.  Finally i learned how to change the constructions color(gray). I look forward to more constrctions to come.
 
 ### Wheel
+##### Description
+>This construction was withot a doubt the most complicated of the 4 before it, however this was probalby my favorite thing to construct.  I began this constrction by making three connected rectangles that were each symetric to a contrction line, the top rectangle had demensions of 5mm x 20mm and the others were measured through the creation of inner and outer diameter lines around different axis( inner diameter was 80 and outer were 10 and 25).  From there i revolved each of the three connected rectangle faces arond the x-axis and then extruded a shape through the tire through with lines i drew.  I then made a circular pattern around the face 1 of the tire 5x and i then had 5 cuttouts in my tire. Finally i put a 1mm fillet around all of the edges on the front and the back of the tire.
+##### Evidence
+[The Wheel on OnShape](https://cvilleschools.onshape.com/documents/cb1bb8aeae329deea77ff46f/w/4789c2432db33ae3a74e6b31/e/67ba37dac85c5481b1db109c)
+##### Image
+[The Wheel Image](https://docs.google.com/document/d/1VnwDKxEklFIXjIbCXe9V2B8qohwYO2sra9uBDmu8MpE/edit?usp=sharing)
+##### Reflection
+>At this point i can't wait to see how the caster turns out. For this assignment I did a mixture of following alond with the given video(https://youtu.be/RKeALFyqSGw) and i looked at the given images to see what to do, as i am now comfortable enough with OnShape that i can construct the things on my own. I learned how to revolve multiple shapes at the same time by just clicking the different faces.  I also learned how to create a circular pattern and how to use the "see edges through shape" function to tap on lines without baing able to see them.  I am really starting to get the hang of OnShape, and as i said i can't wait to see how the caster turns out. 
+
+### Axel, Collar, Bearing
 ##### Description
 >This construction was withot a doubt the most complicated of the 4 before it, however this was probalby my favorite thing to construct.  I began this constrction by making three connected rectangles that were each symetric to a contrction line, the top rectangle had demensions of 5mm x 20mm and the others were measured through the creation of inner and outer diameter lines around different axis( inner diameter was 80 and outer were 10 and 25).  From there i revolved each of the three connected rectangle faces arond the x-axis and then extruded a shape through the tire through with lines i drew.  I then made a circular pattern around the face 1 of the tire 5x and i then had 5 cuttouts in my tire. Finally i put a 1mm fillet around all of the edges on the front and the back of the tire.
 ##### Evidence
