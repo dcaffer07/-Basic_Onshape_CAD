@@ -9,7 +9,7 @@
 ##### [The Axel, Collar, and Bearing](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#axel-collar-bearing)
 ### The Assembly
 ##### [The Sub-Assembly](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#sub-assembly--wheleaxelcollar)
-##### [The Final Assembly](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#sub-assembly--wheleaxelcollar)
+##### [The Final Assembly](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#final-assembly)
 
 ### Base
 ##### Description 
