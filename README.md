@@ -8,7 +8,8 @@
 ##### [The Wheel](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#wheel)
 ##### [The Axel, Collar, and Bearing](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#axel-collar-bearing)
 ### The Assembly
-##### [The Sub-Assembly]()
+##### [The Sub-Assembly](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#sub-assembly--wheleaxelcollar)
+##### [The Final Assembly](https://github.com/dcaffer07/-Basic_Onshape_CAD/blob/main/README.md#sub-assembly--wheleaxelcollar)
 
 ### Base
 ##### Description 
@@ -81,3 +82,4 @@
 ##### Reflection
 >I learned so many new things in this Sub-Assembly. I followed alond with DR. Sheild's video, and 
 
+### Final Assembly
