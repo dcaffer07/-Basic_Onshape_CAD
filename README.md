@@ -69,3 +69,13 @@
 [The Axel, Collar, and Bearing images](https://docs.google.com/document/d/1hOwbX_ziMfD2psWz7h_LF4J_sUPeRfWLkVRjtllfcjE/edit)
 ##### Reflection
 >These constructions were short, quik, and reletively easy, however they did teach me how to use new functions on OnShape. The first that a lerned is how to extrude partailly, in other words i learned how to cut a shape out of a construction. I also Learned how to make multiple parts in the same part studio.  At this point i am super familiar and commfortable with constructions on OnShape, however the next step is learning how to assemble parts, which personaly i can't wait to do.
+
+### Sub-Assembly- Whele/Axel/Collar
+##### Description
+>This Sub-Assembly will be my first experience assembeling my own desighn, this assembly will consist of the Tire, Wheel, Axel, and a few Collars, this sub-assembly will make the overall assembly easier and less complicated.  In this assignemnt i created a new document, opened the part studio tab, and began insterting each of my parts.  I then fastened the wheel to the prgin to give myself a base. Once I had the wheel planted, i attactched the tire to the wheel using the fasten option, and then clicking on the center orgin of each of my shapes.  I then took the axel and made a revolute by using the orgin oif the axel and wheel.  Finally i fastened the bearing to the axel and made a tangent construction so that the hole in the bearing was allighned with the cut out on the axel.
+##### Evidence
+[The Sub-Assembly on Onshape](https://cvilleschools.onshape.com/documents/8a62da31084f3e56222f337b/w/33f535dee88382c54eee5013/e/e0dfe2c180e250582c71584a)
+##### Image
+[The Sub-Assembly images](https://docs.google.com/document/d/1YChYDAiBlNJqzqcZrD1FBypD4bvAO-BaBReJ9WJJa5o/edit)
+##### Reflection
+>I learned so many new things in this Sub-Assembly. I foll
