@@ -78,4 +78,4 @@
 ##### Image
 [The Sub-Assembly images](https://docs.google.com/document/d/1YChYDAiBlNJqzqcZrD1FBypD4bvAO-BaBReJ9WJJa5o/edit)
 ##### Reflection
->I learned so many new things in this Sub-Assembly. I foll
+>I learned so many new things in this Sub-Assembly. I followed alond with DR. Sheild's video, and 
