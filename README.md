@@ -80,6 +80,6 @@
 ##### Image
 [The Sub-Assembly images](https://docs.google.com/document/d/1YChYDAiBlNJqzqcZrD1FBypD4bvAO-BaBReJ9WJJa5o/edit)
 ##### Reflection
->I learned so many new things in this Sub-Assembly. I followed alond with DR. Sheild's video, and 
+>I learned so many new things in this Sub-Assembly. I followed alond with DR. Sheild's video, and that was very helpfull as i am learning how to assemble.  This Sub-Assembly is imprortat because it provides for an easier finall assembly, because in the final assembly there are a bunch of parts in a small part studio, and a sub-assembly can simplify the process for convenience and for and their is less room for error when it really matters (finall assembly).  Other reasons is that it allowed us to practice assemblys befre the finall product, so that if we do end up making a mistake it is nat as major of a part studio.  I reaaly enjoyed the assembly, and i look forward to the end product.
 
 ### Final Assembly
