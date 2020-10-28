@@ -82,4 +82,12 @@
 ##### Reflection
 >I learned so many new things in this Sub-Assembly. I followed alond with DR. Sheild's video, and that was very helpfull as i am learning how to assemble.  This Sub-Assembly is imprortat because it provides for an easier finall assembly, because in the final assembly there are a bunch of parts in a small part studio, and a sub-assembly can simplify the process for convenience and for and their is less room for error when it really matters (finall assembly).  Other reasons is that it allowed us to practice assemblys befre the finall product, so that if we do end up making a mistake it is nat as major of a part studio.  I reaaly enjoyed the assembly, and i look forward to the end product.
 
-### Final Assembly
+### Final Assembly- ALL PARTS!!!
+##### Description
+>This Assembly was without a doubt easier then any of the former sub-assemblys due to my new familiarity with OnShapes assembly window.  I began this assembly with inserting my base, fastening that about the orgin, and the adding the mount to the base using a mate connecter function and inserting these parts into my assembly studio.  I then inserted the fork and the big washer to connect the fork to the base and mount using a resolute mate.  I then inserted my sub-assembly and connected that with the fork using the resolute mate.  I then inserted colars onto the wheel so that it would stay attached to my fork once agian using the resolute mate function.  Finally i constructed hex-bolts and nuts in the insert tab and made these connect my mount to the base, i made a bolt to keep the fork attached to the base, and i made pins to hold the collar in place seccuring my caster.
+##### Evidence
+[The Final Assembly on Onshape](https://cvilleschools.onshape.com/documents/e4298dc3e2e19f8aaf3f04c4/w/09f2473429b262527e4c73f5/e/fd523904bf4a8eeebb40d30b)
+##### Image
+[The Final Assembly images](https://docs.google.com/document/d/1I9lspL3zJfkhNv-OJHcg5N6MN1mg1pry19h5MsdE1b4/edit?usp=sharing)
+##### Reflection
+>I am super excited with how this caster turned out, personally i really enjoyed the project and i cant wait to continue on with engineering. I followed along with Dr. Sheilds video to help make the process easier on myself, and after this project i feel exteremely familiar with OnShape and its numerouse abilitys.  I think that Mr, H had us do this project to gain familiarity with OnShape so that soon we can create projects and desighns of our own! As i said i really enjoyed this project and i look forwars t using it in the future! 
